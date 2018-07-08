@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{site.theme}}";
+
+html, body {
+font-size: 20px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+  "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+  "Helvetica Neue", sans-serif;
+  line-height: normal;
+  margin: 1rem;
+}
+
+body {
+    background: #ece4d8;
+    font: normal normal 15px/1.5 Georgia, Palatino,” Palatino Linotype”,
+    Times, “Times New Roman”, serif;
+    color: #544943;
+    -webkit-font-smoothing: antialiased;
+}
