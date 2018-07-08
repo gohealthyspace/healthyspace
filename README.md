@@ -9,7 +9,7 @@ We look forward to learning, promoting and sharing contributions from our commun
 
 Want more information? Feel free to reach out via email at team@gohealthyspace.org.
 
-### Project Areas we support include:
+### Some of the Project Areas we support:
 
 * Green building / LEED
 * Green IoT & Automation
